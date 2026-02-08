@@ -1,0 +1,46 @@
+body {
+    font-family: "Bradley Hand", cursive;
+    background-color: #f3ccd4;
+    text-align: center;
+    padding: 300px;
+}
+
+h1 {
+    color: #71b2cd;
+}
+
+p {
+    color: #71b2cd;
+    font-size: 18px;
+}
+
+button {
+    font-family: "Bradley Hand", cursive;
+    background-color: #da99c7;
+    color: #ffeaee;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #bc83ab;
+}
+
+.leftgif {
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    width: 200px;
+    height: 200;
+}
+
+.rightgif {
+    position: absolute;
+    top: 300px;
+    left: 880px;
+    width: 200px;
+    height: 200;
+}
